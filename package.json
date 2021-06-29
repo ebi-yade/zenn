@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ebi-yade/zenn",
+  "author": "市川恭佑 (ebi) <github@mail.ebi-yade.com>",
+  "license": "GPL",
+  "dependencies": {
+    "zenn-cli": "^0.1.89"
+  }
+}
